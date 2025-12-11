@@ -10,7 +10,7 @@
     "enzyme": "^3.10.0",
     "enzyme-adapter-react-16": "^1.14.0",
     "jest-enzyme": "^7.1.1",
-    "react-scripts": "3.0.0"
+    "react-scripts": "5.0.1"
   },
   "resolutions": {
     "babel-jest": "24.7.1"
